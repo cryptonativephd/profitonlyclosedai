@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "ProfitOnlyClosedAI Replacer",
+  "version": "1.0",
+  "description": "Replaces 'OpenAI' with 'ProfitOnlyClosedAI' on Twitter",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.x.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
+
