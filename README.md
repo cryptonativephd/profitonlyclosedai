@@ -12,12 +12,12 @@ ProfitOnlyClosedAI Replacer is a free and open-source Chrome extension that repl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/profitonlyclosedai-replacer.git
+   git clone https://github.com/cryptonativephd/profitonlyclosedai.git
    ```
 
 2. **Navigate to the project directory:**
   ```bash
-  cd profitonlyclosedai-replacer
+  cd profitonlyclosedai
   ```
 3. **Load the extension in Chrome:**
   - Open Chrome and go to chrome://extensions/
